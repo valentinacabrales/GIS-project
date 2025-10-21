@@ -1,2 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>GIS Project</title><link href="/" rel="alternate"/><link href="feeds/all.atom.xml" rel="self"/><id>/</id><updated>2025-10-20T10:20:00-05:00</updated><entry><title>GQis2Web Test</title><link href="gqis2web-test.html" rel="alternate"/><published>2025-10-20T10:20:00-05:00</published><updated>2025-10-20T10:20:00-05:00</updated><author><name>Valentina Cabrales</name></author><id>tag:None,2025-10-20:gqis2web-test.html</id><content type="html">&lt;p&gt;...&lt;/p&gt;</content><category term="maps"/></entry></feed>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>GIS Project</title><link href="/" rel="alternate"/><link href="feeds/all.atom.xml" rel="self"/><id>/</id><updated>2025-10-20T10:20:00-05:00</updated><entry><title>GQis2Web Test</title><link href="gqis2web-test.html" rel="alternate"/><published>2025-10-20T10:20:00-05:00</published><updated>2025-10-20T10:20:00-05:00</updated><author><name>Valentina Cabrales</name></author><id>tag:None,2025-10-20:gqis2web-test.html</id><content type="html">&lt;h1&gt;Big title&lt;/h1&gt;
+&lt;p&gt;Some text&lt;/p&gt;
+&lt;h4&gt;Small heading&lt;/h4&gt;
+&lt;p&gt;Markdown has lists&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;item 1&lt;/li&gt;
+&lt;li&gt;item 2&lt;/li&gt;
+&lt;/ul&gt;</content><category term="maps"/></entry></feed>
