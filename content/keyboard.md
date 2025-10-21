@@ -1,7 +1,5 @@
-Title: My First Review
-Date: 2010-12-03 10:20
-Category: Review
+Title: GQis2Web Test
+Date: 2025-10-20 10:20
+Category: maps
 
-Following is a review of my favorite mechanical keyboard.
-
-What the fuck man
+...
