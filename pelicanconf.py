@@ -15,6 +15,9 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
+STATIC_PATHS = ["maps"]
+ARTICLE_PATHS = ['posts'] 
+
 # Blogroll
 LINKS = (
     # ("Pelican", "https://getpelican.com/"),
