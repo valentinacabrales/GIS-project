@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.12"
 pelican = {extras = ["markdown"], version = "^4.11.0"}
+ipython = "^9.6.0"
 
 
 [build-system]
